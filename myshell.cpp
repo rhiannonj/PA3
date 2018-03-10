@@ -9,6 +9,7 @@
 #include <stdio.h>
 #include <fcntl.h>
 
+// here's a new comment
 
 //declare constants for standard input and standard output
 #define INPUT 0
